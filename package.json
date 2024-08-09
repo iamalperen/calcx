@@ -2,8 +2,9 @@
   "name": "calcx",
   "version": "1.0.0",
   "description": "Lightweight calculation library",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
+    "build": "tsc",
     "test": "jest",
     "prepare": "husky"
   },
