@@ -1,6 +1,9 @@
 # calcx
 
 [![CI](https://github.com/iamalperen/calcx/actions/workflows/ci.yml/badge.svg)](https://github.com/iamalperen/calcx/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/calcx.svg?style=flat-square)](https://www.npmjs.com/package/calcx)
+[![npm downloads](https://img.shields.io/npm/dm/calcx.svg?style=flat-square)](https://www.npmjs.com/package/calcx)
+
 
 **calcx** is a powerful TypeScript-based library that provides a wide range of mathematical functions. Whether you need to perform basic arithmetic, geometry, algebra, or complex financial calculations, calcx has you covered.
 
